@@ -8,13 +8,13 @@
 // console.log(a);
 
 // b.-
-// var a = 1; 
+// var a = 1; // a = 1
 // let a = 2; // Identifier 'a' has already been declared
 // console.log(a);
 // c.-
-let a = 1;
-var a = 2;
-console.log(a);
+// let a = 1; // Identifier 'a' has already been declared
+// var a = 2; // a = 2
+// console.log(a);
 // d.-
 // let a = 1;
 // let a = 2;
