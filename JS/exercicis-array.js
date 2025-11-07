@@ -13,3 +13,9 @@
 // arr[1] = "," ;
 // console.log(arr);
 
+// 21.3 
+// let arr = [23,45,98,73];
+// suma = arr[0] + arr[2];
+// arr[6] = suma;
+// console.log(arr);
+
