@@ -80,4 +80,33 @@
 // let resultat = Nota(notaAC, notaPract, notaExamen);
 // console.log(resultat);
 
+// 3.5 
 
+// function twitter(tweet) {
+//   let paraulesamb5 = 0;
+//   let lletres = 0; 
+//   let i = 0; 
+
+//   while (tweet[i] !== ".") {  
+//     if (tweet[i] === " " || tweet[i] === ",") {
+//       if (lletres === 5) {
+//         paraulesamb5++;
+//       }
+//       lletres = 0; 
+//     } else {
+//       lletres++; 
+//     }
+//     i++;
+//   }
+
+  
+//   if (lletres === 5) {
+//     paraulesamb5++;
+//   }
+
+//   return paraulesamb5;
+// }
+
+// let tweetEntrada = prompt("Introdueix la frase:");
+// let resultat = twitter(tweetEntrada)
+// console.log(resultat);
