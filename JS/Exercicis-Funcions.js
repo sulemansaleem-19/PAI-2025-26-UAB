@@ -32,3 +32,17 @@
 
 //3.3
 
+function equacion(N) {
+  let suma = 0;
+  let result = 0;
+  for (let n = 1; n <= N; n = n + 1) {
+    result = 1 / (n * n);
+    suma = suma + result;
+  }
+  return suma;
+}
+
+let Nentrada = parseInt(prompt("Introdueix un enter N"));
+let resultat = equacion(Nentrada);
+console.log(resultat);
+
