@@ -16,16 +16,19 @@
 
 // 3.2
 
-function traspas(any) {
-  let resultat = "";
-  if ((any % 4 === 0 && any % 100 !== 0) || (any % 400 === 0)) {
-    resultat = "El any es de traspas";
-  } else {
-    resultat = "El any no es de traspas";
-  }
-  return resultat;
-}
+// function traspas(any) {
+//   let resultat = "";
+//   if ((any % 4 === 0 && any % 100 !== 0) || (any % 400 === 0)) {
+//     resultat = "El any es de traspas";
+//   } else {
+//     resultat = "El any no es de traspas";
+//   }
+//   return resultat;
+// }
 
-let anyEntrada = parseInt(prompt("Escriu un número"));
-let resultat = traspas(anyEntrada);
-console.log(resultat); 
+// let anyEntrada = parseInt(prompt("Escriu un número"));
+// let resultat = traspas(anyEntrada);
+// console.log(resultat); 
+
+//3.3
+
