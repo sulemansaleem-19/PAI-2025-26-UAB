@@ -7,3 +7,6 @@
 // else {
     // console.log ("EL numero es positiu")
 // }
+
+// exercici 13.2 
+
